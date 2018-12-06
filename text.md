@@ -18,7 +18,7 @@ Notice that no text is showing up on the preview. This is because whatever chann
 
 ![topchannel](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/images/text/topchannel.JPG)
 
-Now that we can see the text in the preview, change the text to your liking using the Video Media Generators box.
+Now that we can see the text in the preview, change the text to your liking using the Video Media Generators box. You can also change the placement of the text by clicking and dragging it on the preview to wherever you desire it to be. You can also cut and crossfade the text just like regular footage.
 
 You've created text!
 ***
