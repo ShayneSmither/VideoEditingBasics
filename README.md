@@ -9,3 +9,5 @@
 To get started, click on whichever subject you'd like to learn about.
 
 ## [Importing Footage](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/import.md)
+
+## [Cuts and Transitions](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/CutsTransitions.md)
