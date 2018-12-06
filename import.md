@@ -1,6 +1,6 @@
 # Importing Footage
 
-[Click here to go back.](https://github.com/ShayneSmither/VideoEditingBasics)
+[Click here to go back.](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/README.md)
 
 When you first open up your editing program, you will likely get a screen looking similar to this:
 
@@ -27,3 +27,5 @@ Go ahead and click Yes, then it should look something like this:
 ![screen2](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/images/import/screen2.JPG)
 
 You've imported footage!
+
+[Click here to go back.](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/README.md)
