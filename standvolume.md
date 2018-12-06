@@ -12,7 +12,7 @@ Notice that the audio is on its own track, and has unique controls on the left s
 
 These controls are used to mix the audio to your liking. The Vol slider changes how loud the audio will be (this is helpful when there are multiple audio tracks in the same timeline.) The Pan slider changes which speaker will play louder (this will only matter if you are playing the video in stereo.)
 
-If there is one particular part in the audio that you want to be louder or quieter, you can insert an audio envelope by selecting the audio track in the timeline, then clicking Insert>Audio Envelope>Volume
+If there is one particular part in the audio that you want to be louder or quieter, you can insert an audio envelope by selecting the audio track in the timeline, then clicking Insert>Audio Envelopes>Volume
 
 ![audioenvelope](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/images/standvolume/audioenvelope.JPG)
 
@@ -21,5 +21,9 @@ This will insert a line on your audio track that you can manipulate dynamically 
 ![addpoint](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/images/standvolume/addpoint.JPG)
 
 Then do the same on either side of the original point. You should now be able to drag the middle point up or down in that spot without effecting the rest of the audio.
+
+![lowervolume](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/images/standvolume/lowervolume.JPG)
+
+You can now add and edit audio for your video!
 ***
 [Click here to go back.](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/README.md)
