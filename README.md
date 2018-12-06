@@ -13,3 +13,5 @@ To get started, click on whichever subject you'd like to learn about.
 ## [Cuts and Transitions](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/CutsTransitions.md)
 
 ## [Soundtracks and Volume](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/standvolume.md)
+
+## [Exporting Footage](https://github.com/ShayneSmither/VideoEditingBasics/blob/master/export.md)
